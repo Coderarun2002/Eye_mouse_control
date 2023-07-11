@@ -1,4 +1,6 @@
 # Eye_mouse_control
 This project enables us to control the mouse pointer using our eyes.
 Blink your left eye for left click.
-Little bit go closer to your web cam to enable right click.
+Go closer a little bit to your webcam to enable right click.
+Move your head to navigate.
+
